@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **faredaelsayed0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z6YgVGKJvtYUUJgIeAB5XTZ4VE36zrEA/view?usp=sharing]([https://drive.google.com/file/d/1Z6YgVGKJvtYUUJgIeAB5XTZ4VE36zrEA/view?usp=sharing](https://drive.google.com/file/d/1Z6YgVGKJvtYUUJgIeAB5XTZ4VE36zrEA/view?usp=drivesdk))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Z6YgVGKJvtYUUJgIeAB5XTZ4VE36zrEA/view?usp=sharing]](https://drive.google.com/file/d/1Z6YgVGKJvtYUUJgIeAB5XTZ4VE36zrEA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
