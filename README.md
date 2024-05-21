@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fareda Elsayed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://static.vecteezy.com/system/resources/previews/017/216/733/non_2x/asian-woman-working-on-laptop-woman-it-developer-programming-code-freelance-remote-working-vector.jpg)"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fareeda1510&label=Profile%20views&color=0e75b6&style=flat" alt="fareeda1510" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- Frontend web developer
+  
 - 🌱 I’m currently learning **frontend , ML**
 
 - 📫 How to reach me **faredaelsayed0@gmail.com**
