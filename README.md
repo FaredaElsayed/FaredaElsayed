@@ -1,5 +1,5 @@
 <h1 align="center">Fareda Elsayed</h1>
-<h3 align="center">Frontend Developer | React & TypeScript</h3>
+<h3 align="center">Frontend Developer | React JS & TypeScript</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=fareeda1510">
